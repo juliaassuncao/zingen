@@ -74,6 +74,11 @@ h3 {
   font-size: var(--fs-lg);
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 @media (width >= 80em) {
   :root {
     --fs-lg: 2rem;
