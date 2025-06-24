@@ -5,3 +5,9 @@
   margin-inline: auto;
   outline: 1px solid red;
 }
+
+@media (width >= 80em) {
+  .container {
+    --max-width: 80rem;
+  }
+}
