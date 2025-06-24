@@ -1,0 +1,26 @@
+.btn {
+  border: 0;
+  background-color: transparent;
+
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+
+  border-radius: 0.5rem;
+
+  font: var(--fw-md) var(--fs-base)/1.5rem var(--ff-sans);
+
+  cursor: pointer;
+}
+
+.btn-sm {
+  font-size: var(--fs-sm);
+}
+
+.btn-md {
+  font-size: var(--fs-base);
+}
+
+.btn-lg {
+  font-size: 1.125rem;
+}
