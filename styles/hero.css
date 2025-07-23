@@ -25,7 +25,7 @@
   #hero {
   /* min-height: calc(100vh - 72px); */
   background: url(../assets/bg-hero-desktop.svg) no-repeat bottom center/contain;
-  padding-bottom: 10.75rem;
+  padding-bottom: 11.1rem;
 
     & img[src*="music"] {
       width: 25.75rem;
